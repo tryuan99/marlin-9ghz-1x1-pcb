@@ -145,7 +145,7 @@ OutputEnabled4_OutputMedium4=0
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.79|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 Configuration4_Name1=OutputConfigurationParameter1
-Configuration4_Item1=Record=Pcb3DPrintView|ResX=600|ResY=600|ViewX=45000000|ViewY=40000000|LookAtX=42500000|LookAtY=40000000|LookAtZ=0|UpX=0|UpY=1|UpZ=0|FOV=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=4.8625E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=True|ScreenWidth=0|ScreenHeight=0|ImageOutputType=1|ViewConfig= |DocumentPath=C:\Users\tryua\Documents\Altium\marlin-9ghz-1x4\MARLIN.PcbDoc
+Configuration4_Item1=Record=Pcb3DPrintView|ResX=600|ResY=600|ViewX=45000000|ViewY=40000000|LookAtX=42500000|LookAtY=40000000|LookAtZ=0|UpX=0|UpY=1|UpZ=0|FOV=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=4.8625E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=True|ScreenWidth=0|ScreenHeight=0|ImageOutputType=1|ViewConfig= |DocumentPath=MARLIN.PcbDoc
 OutputType5=Gerber
 OutputName5=Gerber Files
 OutputCategory5=Fabrication
@@ -214,7 +214,7 @@ Configuration9_Item1=Compression_None=True|Compression_tar_tgz=True|Compression_
 [PublishSettings]
 OutputFilePath2=C:\Users\tryua\Documents\Altium\bailey\Project Outputs for bailey\PDF\
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for marlin-9ghz-1x4
+OutputBasePath2=Project Outputs for marlin-9ghz-1x1
 OutputPathMedia2=[Media Name]
 OutputPathMediaValue2=
 OutputPathOutputer2=
@@ -239,9 +239,9 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=C:\Users\tryua\Documents\Altium\marlin-9ghz-1x4\Project Outputs for marlin-9ghz-1x4
+OutputFilePath3=C:\Users\tryua\Documents\Altium\marlin-9ghz-1x1\Project Outputs for marlin-9ghz-1x1
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for marlin-9ghz-1x4
+OutputBasePath3=Project Outputs for marlin-9ghz-1x1
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
@@ -254,7 +254,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for marlin-9ghz-1x4
+OutputBasePath4=Project Outputs for marlin-9ghz-1x1
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -293,7 +293,7 @@ WmvQuality4=80
 [GeneratedFilesSettings]
 RelativeOutputPath2=C:\Users\tryua\Documents\Altium\bailey\Project Outputs for bailey\PDF\
 OpenOutputs2=1
-RelativeOutputPath3=C:\Users\tryua\Documents\Altium\marlin-9ghz-1x4\Project Outputs for marlin-9ghz-1x4
+RelativeOutputPath3=C:\Users\tryua\Documents\Altium\marlin-9ghz-1x1\Project Outputs for marlin-9ghz-1x1
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0
