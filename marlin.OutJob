@@ -145,7 +145,7 @@ OutputEnabled4_OutputMedium4=0
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.79|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 Configuration4_Name1=OutputConfigurationParameter1
-Configuration4_Item1=Record=Pcb3DPrintView|ResX=600|ResY=600|ViewX=45000000|ViewY=40000000|LookAtX=42500000|LookAtY=40000000|LookAtZ=0|UpX=0|UpY=1|UpZ=0|FOV=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=4.8625E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=True|ScreenWidth=0|ScreenHeight=0|ImageOutputType=1|ViewConfig= |DocumentPath=MARLIN.PcbDoc
+Configuration4_Item1=Record=Pcb3DPrintView|ResX=600|ResY=600|ViewX=45000000|ViewY=40000000|LookAtX=42500000|LookAtY=40000000|LookAtZ=0|UpX=0|UpY=1|UpZ=0|FOV=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=4.8625E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=True|ScreenWidth=0|ScreenHeight=0|ImageOutputType=1|ViewConfig= |DocumentPath=C:\Users\tryua\Documents\Altium\marlin-9ghz-1x1\MARLIN.PcbDoc
 OutputType5=Gerber
 OutputName5=Gerber Files
 OutputCategory5=Fabrication
